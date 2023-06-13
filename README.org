@@ -1,0 +1,10 @@
+* vgplot
+
+Common lisp library interfacing to the gnuplot utility
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/volkers/vgplot.git   |
+| commit  | 7632992  |
+| systems | vgplot |
+|---------+-------------------------------------------|
+
